@@ -38,10 +38,10 @@
 
       <!-- Social Links -->
       <div class="flex justify-center md:justify-start gap-6 text-2xl mb-6">
-        <a href="https://github.com//" target="_blank" class="text-gray-300 hover:text-purple-400 transition">
+        <a href="https://github.com/X1lON3-n/" target="_blank" class="text-gray-300 hover:text-purple-400 transition">
           <i class="fa-brands fa-github"></i>
         </a>
-        <a href="https://linkedin.com/in/" target="_blank" class="text-gray-300 hover:text-blue-400 transition">
+        <a href="https://www.linkedin.com/in/muhammadnabil09/" target="_blank" class="text-gray-300 hover:text-blue-400 transition">
           <i class="fa-brands fa-linkedin"></i>
         </a>
         <a href="https://www.instagram.com/07npr?igsh=YzljYTk1ODg3Zg==" target="_blank" class="text-gray-300 hover:text-pink-400 transition">
@@ -53,7 +53,7 @@
       <div>
         <a href="{{ route('cv8') }}" 
            class="inline-block px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold rounded-lg shadow-md hover:opacity-90 transition">
-          Download CV
+          Lihat CV
         </a>
       </div>
     </div>

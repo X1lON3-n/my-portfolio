@@ -91,13 +91,13 @@
   <footer class="relative z-10 bg-[#050321] text-gray-400 text-center py-6 mt-16">
     <!-- Social Links -->
     <div class="flex justify-center space-x-6 mb-3">
-      <a href="https://github.com/username" target="_blank" class="hover:text-purple-400">
+      <a href="https://github.com/X1lON3-n/" target="_blank" class="hover:text-purple-400">
         <i class="fa-brands fa-github text-xl"></i>
       </a>
-      <a href="https://linkedin.com/in/username" target="_blank" class="hover:text-purple-400">
+      <a href="https://www.linkedin.com/in/muhammadnabil09/" target="_blank" class="hover:text-purple-400">
         <i class="fa-brands fa-linkedin text-xl"></i>
       </a>
-      <a href="https://linkedin.com/in/username" target="_blank" class="hover:text-purple-400">
+      <a href="https://www.instagram.com/07npr?igsh=YzljYTk1ODg3Zg==" target="_blank" class="hover:text-purple-400">
         <i class="fa-brands fa-instagram text-xl"></i>
       </a>
     </div>
